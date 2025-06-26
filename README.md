@@ -13,7 +13,7 @@
     ```
 
 ### Executando os Testes
- **Executar Todos os Testes:**
+* **Executar Todos os Testes:**
    ```bash
     python -m pytest tests/ -v
     ```
